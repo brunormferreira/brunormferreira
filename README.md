@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, people. 👋 I'm Bruno Ramires!
 
-<!--
-**brunormferreira/brunormferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :pushpin: Focused on **Frontend Development** and your ecosystem arount it.
+- 🌱 Technologies that I like
+  - React
+  - Nextjs
+  - Gatsbyjs
+  - Angular
+  - Vue
+  - Unit and Integration tests
+  - and others.
+  
+<img align="left" src="https://media3.giphy.com/media/3o6ZsXTQUVOT84Zrz2/giphy.gif?cid=ecf05e471eecbe8c5bcb9e13f9d95b057329bb3e7c9d46f5&rid=giphy.gif" alt="Hi" width="300"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Bruno github stats](https://github-readme-stats.vercel.app/api?username=brunormferreira&show_icons=true&theme=cobalt)
