@@ -1,6 +1,6 @@
 # Hi, people. 👋 I'm Bruno Ramires!
 
-- :pushpin: Focused on **Frontend Development** and your ecosystem arount it.
+- :pushpin: Focused on **Frontend Development** and your ecosystem around it.
 - 🌱 Technologies that I like
   - React
   - Nextjs
