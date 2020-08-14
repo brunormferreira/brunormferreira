@@ -7,7 +7,8 @@
   - Gatsbyjs
   - Angular
   - Vue
-  - Unit and Integration tests
+  - Jest
+  - Cypress
   - and others.
 
 <img align="left" src="https://media3.giphy.com/media/3o6ZsXTQUVOT84Zrz2/giphy.gif?cid=ecf05e471eecbe8c5bcb9e13f9d95b057329bb3e7c9d46f5&rid=giphy.gif" alt="Hi" width="300"/>
