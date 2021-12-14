@@ -1,7 +1,7 @@
 # Hi, people. 👋 I'm Bruno Ramires!
 
 - :pushpin: Focused on **Frontend Development** and your ecosystem around it.
-- :art: Currently studying **UX and UI Design**, sketching with **Figma**.
+- :art: Passionate about **UX and UI Design**, sketch with **Figma**.
 - 🌱 Technologies that I like
   - React
   - Nextjs
